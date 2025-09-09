@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|c:\\users\\brayd\\documents\\varsity\\3rd year\\semester 2\\prog7312\\reportpal\\reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\reportissuesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\reportissuesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|c:\\users\\brayd\\documents\\varsity\\3rd year\\semester 2\\prog7312\\reportpal\\reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD2D959-6C12-462F-92D9-527B58234B66}|ReportPal\\ReportPal.csproj|solutionrelative:reportpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportIssuesForm.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\ReportIssuesForm.cs",
+              "RelativeDocumentMoniker": "ReportPal\\ReportIssuesForm.cs",
+              "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\ReportIssuesForm.cs",
+              "RelativeToolTip": "ReportPal\\ReportIssuesForm.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAADgv6MBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:58:40.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportIssuesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\ReportIssuesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReportPal\\ReportIssuesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\ReportIssuesForm.Designer.cs",
+              "RelativeToolTip": "ReportPal\\ReportIssuesForm.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:58:32.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -41,37 +83,38 @@
               "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\ReportIssuesForm.cs [Design]",
               "RelativeToolTip": "ReportPal\\ReportIssuesForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T19:27:56.924Z"
+              "WhenOpened": "2025-09-09T05:58:31.559Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ReportPal\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.Designer.cs",
-              "RelativeToolTip": "ReportPal\\Form1.Designer.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAADgv0EAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T19:02:15.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.cs",
               "RelativeDocumentMoniker": "ReportPal\\Form1.cs",
               "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.cs",
               "RelativeToolTip": "ReportPal\\Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T19:01:52.548Z",
+              "WhenOpened": "2025-09-09T05:54:37.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ReportPal\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.Designer.cs",
+              "RelativeToolTip": "ReportPal\\Form1.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3MAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:53:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Form1.cs",
               "RelativeDocumentMoniker": "ReportPal\\Form1.cs",
@@ -80,6 +123,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T18:39:24.634Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Issue.cs",
+              "RelativeDocumentMoniker": "ReportPal\\Issue.cs",
+              "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\Issue.cs*",
+              "RelativeToolTip": "ReportPal\\Issue.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:33:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\AppSettings.cs",
+              "RelativeDocumentMoniker": "ReportPal\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\brayd\\Documents\\Varsity\\3rd year\\Semester 2\\PROG7312\\ReportPal\\ReportPal\\AppSettings.cs",
+              "RelativeToolTip": "ReportPal\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:58:48.33Z",
+              "EditorCaption": ""
             }
           ]
         }

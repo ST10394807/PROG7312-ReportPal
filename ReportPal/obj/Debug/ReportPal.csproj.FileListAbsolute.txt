@@ -9,3 +9,5 @@ C:\Users\brayd\Documents\Varsity\3rd year\Semester 2\PROG7312\ReportPal\ReportPa
 C:\Users\brayd\Documents\Varsity\3rd year\Semester 2\PROG7312\ReportPal\ReportPal\obj\Debug\ReportPal.exe
 C:\Users\brayd\Documents\Varsity\3rd year\Semester 2\PROG7312\ReportPal\ReportPal\obj\Debug\ReportPal.pdb
 C:\Users\brayd\Documents\Varsity\3rd year\Semester 2\PROG7312\ReportPal\ReportPal\obj\Debug\ReportPal.exe.config
+C:\Users\brayd\Documents\Varsity\3rd year\Semester 2\PROG7312\ReportPal\ReportPal\obj\Debug\ReportPal.ReportIssuesForm.resources
+C:\Users\brayd\Documents\Varsity\3rd year\Semester 2\PROG7312\ReportPal\ReportPal\obj\Debug\ReportPal.UiDemo.resources
