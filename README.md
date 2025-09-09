@@ -41,7 +41,7 @@ Windows desktop app to report municipal issues fast and clean. This is Part 1/2 
 - (Optional) Upload images/PDFs (≤ 5 MB each). 
 - Click Submit. The form validates and confirms.
 - Return closes the form.
-- Settings → Language/Theme can be changed at any time.
+- Settings - Language/Theme can be changed at any time.
 ## Project Structure
 - Form1 is Main menu.
 - ReportIssuesForm: Issue form, menu, language/theme logic, validation, attachments.
